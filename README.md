@@ -23,9 +23,9 @@ tutoriels (gratuits) Python (site officiel : https://www.python.org/)
 bases de données
 * SQL
 * NoSQL
-** clé valeur
-** document
-** graph
+  * clé valeur
+  * document
+  * graph
 
 architectures
 * SOA
