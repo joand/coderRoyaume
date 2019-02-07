@@ -46,6 +46,17 @@ bases de données
   * graph
   * moteur de recherche / d'indexation
 
+gestionnaire de version
+* git
+* svn
+
+Bonnes pratiques
+* TDD
+* BDD
+* clean code
+* clean architecture
+* agilité
+
 architectures
 * SOA
 * micro service
