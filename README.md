@@ -20,14 +20,35 @@ tutoriels (gratuits) Python (site officiel : https://www.python.org/)
 * https://www.tutorialspoint.com/python/
 * https://www.w3schools.com/python/
 
+HTML
+* https://developer.mozilla.org/fr/docs/Web/HTML
+
+CSS
+* https://developer.mozilla.org/fr/docs/Web/CSS
+* Bootstrap https://getbootstrap.com/docs/4.2/getting-started/introduction/
+
+Javascript (ECMA script)
+* officiel https://developer.mozilla.org/fr/docs/Web/JavaScript
+* https://JavaScript.info
+* AngularJS https://docs.angularjs.org/tutorial
+* Angular https://angular.io/guide/quickstart
+* React https://reactjs.org/tutorial/tutorial.html
+* NodeJS https://nodejs.org/en/docs/
+
 bases de données
 * SQL
-* NoSQL
+* NoSQL 
+  * présentations 
+    * https://blog.talanlabs.com/etude-comparative-bdd-relationnelle-versus-nosql/
+    * https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models
   * clé valeur
   * document
   * graph
+  * moteur de recherche / d'indexation
 
 architectures
 * SOA
 * micro service
-* hexagonale
+  * https://martinfowler.com/articles/microservices.html
+* hexagonale 
+  * https://blog.xebia.fr/2016/03/16/perennisez-votre-metier-avec-larchitecture-hexagonale/
