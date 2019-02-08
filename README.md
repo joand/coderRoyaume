@@ -11,6 +11,11 @@ Java débutant (site officiel : https://docs.oracle.com/javase/tutorial/)
 * https://www.guru99.com/java-tutorial.html
 * https://www.tutorialspoint.com/java/
 * https://www.w3schools.com/java/
+* maven
+* ant
+* tests unitaires
+  * junit
+  * assertj
 
 Java intermédiaire
 * injection de dépendance / inversion de controle  https://www.youtube.com/watch?v=GB8k2-Egfv0
@@ -18,7 +23,11 @@ Java intermédiaire
   * Spring Boot
   * Guice
   * Dagger
-* accès à une base de données
+* tests unitaires
+  * mockito
+* tests d'intégration
+  * spring test
+* accès à une base de données https://www.marcobehler.com/guides/a-guide-to-accessing-databases-in-java/ https://www.databasestar.com/jdbc-in-java/
   * JDBC
   * JPA
   * Hibernate
@@ -28,6 +37,7 @@ Java intermédiaire
 Java avancé
 * multithreading
 * reactivité
+  * rxjava
 * bytecode
 
 tutoriels (gratuits) Python (site officiel : https://www.python.org/)
