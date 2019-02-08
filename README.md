@@ -47,7 +47,9 @@ bases de données
   * moteur de recherche / d'indexation
 
 gestionnaire de version
-* git
+* git https://guides.github.com/introduction/git-handbook/ https://help.github.com/articles/git-and-github-learning-resources/
+  * rebase vs merge https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f
+  * pull vs fetch https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
 * svn
 
 Bonnes pratiques
