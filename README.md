@@ -1,5 +1,4 @@
 # coder pour le Royaume
-communauté chrétienne "code pour le Royaume" 
 
 installer Java sur Windows : 
 1. aller sur ce lien https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html#jdk-8u202-oth-JPR
@@ -7,11 +6,29 @@ installer Java sur Windows :
 1. cliquez sur l'une des 2 flèches rouges en face de "Windows" pour télécharger le programme
 1. une fois téléchargé sur votre ordinateur, double cliquez dessus et suivez les étapes d'installation
 
-tutoriels (gratuits) Java (site officiel : https://docs.oracle.com/javase/tutorial/)
+Java débutant (site officiel : https://docs.oracle.com/javase/tutorial/)
 * https://www.learnjavaonline.org/
 * https://www.guru99.com/java-tutorial.html
 * https://www.tutorialspoint.com/java/
 * https://www.w3schools.com/java/
+
+Java intermédiaire
+* injection de dépendance / inversion de controle  https://www.youtube.com/watch?v=GB8k2-Egfv0
+  * Spring https://docs.spring.io/spring/docs/5.1.3.RELEASE/spring-framework-reference/overview.html#overview
+  * Spring Boot
+  * Guice
+  * Dagger
+* accès à une base de données
+  * JDBC
+  * JPA
+  * Hibernate
+* API REST
+* reflection
+
+Java avancé
+* multithreading
+* reactivité
+* bytecode
 
 tutoriels (gratuits) Python (site officiel : https://www.python.org/)
 * https://www.programiz.com/python-programming/tutorial 
