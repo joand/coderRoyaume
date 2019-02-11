@@ -1,12 +1,12 @@
 # coder pour le Royaume
 
-installer Java sur Windows : 
+### Installer Java sur Windows : 
 1. aller sur ce lien https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html#jdk-8u202-oth-JPR
 1. cliquez sur "accept license agreement"
 1. cliquez sur l'une des 2 flèches rouges en face de "Windows" pour télécharger le programme
 1. une fois téléchargé sur votre ordinateur, double cliquez dessus et suivez les étapes d'installation
 
-Java débutant (site officiel : https://docs.oracle.com/javase/tutorial/)
+### Java débutant (site officiel : https://docs.oracle.com/javase/tutorial/)
 * https://www.learnjavaonline.org/
 * https://www.guru99.com/java-tutorial.html
 * https://www.tutorialspoint.com/java/
@@ -17,7 +17,7 @@ Java débutant (site officiel : https://docs.oracle.com/javase/tutorial/)
   * junit
   * assertj
 
-Java intermédiaire
+### Java intermédiaire
 * injection de dépendance / inversion de controle  https://www.youtube.com/watch?v=GB8k2-Egfv0
   * Spring https://docs.spring.io/spring/docs/5.1.3.RELEASE/spring-framework-reference/overview.html#overview
   * Spring Boot
@@ -34,35 +34,36 @@ Java intermédiaire
 * API REST
 * reflection
 
-Java avancé
+### Java avancé
 * multithreading
 * reactivité
   * rxjava
 * bytecode
 
-tutoriels (gratuits) Python (site officiel : https://www.python.org/)
+### Python (site officiel : https://www.python.org/)
 * https://www.programiz.com/python-programming/tutorial 
 * https://www.learnpython.org/fr/
 * https://www.guru99.com/python-tutorials.html
 * https://www.tutorialspoint.com/python/
 * https://www.w3schools.com/python/
 
-HTML
+### HTML
 * https://developer.mozilla.org/fr/docs/Web/HTML
 
-CSS
+### CSS
 * https://developer.mozilla.org/fr/docs/Web/CSS
 * Bootstrap https://getbootstrap.com/docs/4.2/getting-started/introduction/
 
-Javascript (ECMA script)
+### Javascript (ECMA script)
 * officiel https://developer.mozilla.org/fr/docs/Web/JavaScript
 * https://JavaScript.info
 * AngularJS https://docs.angularjs.org/tutorial
 * Angular https://angular.io/guide/quickstart
 * React https://reactjs.org/tutorial/tutorial.html
 * NodeJS https://nodejs.org/en/docs/
+* jQuery
 
-bases de données
+### bases de données
 * SQL
 * NoSQL 
   * présentations 
@@ -73,22 +74,29 @@ bases de données
   * graph
   * moteur de recherche / d'indexation
 
-gestionnaire de version
+### gestionnaire de version (version control system)
 * git https://guides.github.com/introduction/git-handbook/ https://help.github.com/articles/git-and-github-learning-resources/
   * rebase vs merge https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f
   * pull vs fetch https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
 * svn
 
-Bonnes pratiques
-* TDD
-* BDD
+### Bonnes pratiques
+* TDD : test driven development
+* BDD : behaviour driven development
+* DDD : domain driven development
 * clean code
 * clean architecture
 * agilité
 
-architectures
+### R
+* www.r-project.org
+* https://www.guru99.com/r-tutorial.html 
+
+### architectures
 * SOA
 * micro service
   * https://martinfowler.com/articles/microservices.html
 * hexagonale 
   * https://blog.xebia.fr/2016/03/16/perennisez-votre-metier-avec-larchitecture-hexagonale/
+
+### expressions régulières (regular expressions)
