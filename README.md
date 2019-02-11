@@ -18,6 +18,9 @@
   * assertj
 
 ### Java intermédiaire
+* une liste impressionnante de tuto avec exemples : https://github.com/eugenp/tutorials
+* Java 8 https://github.com/winterbe/java8-tutorial
+* Java 11 https://winterbe.com/posts/2018/09/24/java-11-tutorial/
 * injection de dépendance / inversion de controle  https://www.youtube.com/watch?v=GB8k2-Egfv0
   * Spring https://docs.spring.io/spring/docs/5.1.3.RELEASE/spring-framework-reference/overview.html#overview
   * Spring Boot
