@@ -30,6 +30,7 @@
   * mockito
 * tests d'intégration
   * spring test
+  * spring boot test https://www.baeldung.com/spring-boot-testing
 * accès à une base de données https://www.marcobehler.com/guides/a-guide-to-accessing-databases-in-java/ https://www.databasestar.com/jdbc-in-java/
   * JDBC
   * JPA
