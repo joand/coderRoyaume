@@ -24,6 +24,7 @@
 * Java 8 https://github.com/winterbe/java8-tutorial
 * Java 11 https://winterbe.com/posts/2018/09/24/java-11-tutorial/
 * injection de dépendance / inversion de controle  https://www.youtube.com/watch?v=GB8k2-Egfv0
+  *  https://howtodoinjava.com/spring-core/how-to-use-spring-component-repository-service-and-controller-annotations/#highlighter_831431
   * Spring https://docs.spring.io/spring/docs/5.1.3.RELEASE/spring-framework-reference/overview.html#overview
   * Spring Boot https://spring.io/guides/gs/spring-boot/
   * Guice https://github.com/google/guice/wiki/Motivation
@@ -33,6 +34,7 @@
 * tests d'intégration
   * spring test https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html
   * spring boot test https://www.baeldung.com/spring-boot-testing
+  * avec H2 https://www.baeldung.com/spring-testing-separate-data-source
 * accès à une base de données https://www.marcobehler.com/guides/a-guide-to-accessing-databases-in-java/ https://www.databasestar.com/jdbc-in-java/
   * JDBC
   * JPA
