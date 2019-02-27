@@ -11,11 +11,13 @@
 * https://www.guru99.com/java-tutorial.html
 * https://www.tutorialspoint.com/java/
 * https://www.w3schools.com/java/
-* maven
+* maven https://maven.apache.org/guides/getting-started/index.html
 * ant
 * tests unitaires
-  * junit
-  * assertj
+  * junit. site officiel : https://junit.org/junit5/docs/current/user-guide/
+    * junit avec eclipse https://www.youtube.com/watch?v=I8XXfgF9GSc
+    * junit avec intellij https://www.youtube.com/watch?v=QDFI19lj4OM
+  * assertj http://joel-costigliola.github.io/assertj/
 
 ### Java intermédiaire
 * une liste impressionnante de tuto avec exemples : https://github.com/eugenp/tutorials
@@ -23,13 +25,13 @@
 * Java 11 https://winterbe.com/posts/2018/09/24/java-11-tutorial/
 * injection de dépendance / inversion de controle  https://www.youtube.com/watch?v=GB8k2-Egfv0
   * Spring https://docs.spring.io/spring/docs/5.1.3.RELEASE/spring-framework-reference/overview.html#overview
-  * Spring Boot
-  * Guice
-  * Dagger
+  * Spring Boot https://spring.io/guides/gs/spring-boot/
+  * Guice https://github.com/google/guice/wiki/Motivation
+  * Dagger https://google.github.io/dagger/users-guide
 * tests unitaires
-  * mockito
+  * mockito https://www.youtube.com/watch?v=d2KwvXQgQx4
 * tests d'intégration
-  * spring test
+  * spring test https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html
   * spring boot test https://www.baeldung.com/spring-boot-testing
 * accès à une base de données https://www.marcobehler.com/guides/a-guide-to-accessing-databases-in-java/ https://www.databasestar.com/jdbc-in-java/
   * JDBC
@@ -60,15 +62,20 @@
 
 ### Javascript (ECMA script)
 * officiel https://developer.mozilla.org/fr/docs/Web/JavaScript
-* https://JavaScript.info
+* From the basics to advanced topics with simple, but detailed explanations https://JavaScript.info
+* 33 Concepts Every JavaScript Developer Should Know https://github.com/leonardomso/33-js-concepts/blob/master/README.md
 * AngularJS https://docs.angularjs.org/tutorial
 * Angular https://angular.io/guide/quickstart
 * React https://reactjs.org/tutorial/tutorial.html
 * NodeJS https://nodejs.org/en/docs/
-* jQuery
+* jQuery https://learn.jquery.com/about-jquery/how-jquery-works/
 
 ### bases de données
 * SQL
+  * https://www.w3schools.com/sql/
+  * https://sql.sh/
+  * https://www.tutorialspoint.com/sql/
+  * 
 * NoSQL 
   * présentations 
     * https://blog.talanlabs.com/etude-comparative-bdd-relationnelle-versus-nosql/
@@ -77,6 +84,9 @@
   * document
   * graph
   * moteur de recherche / d'indexation
+    * Lucene
+    * Solr
+    * Elastic search
 
 ### gestionnaire de version (version control system)
 * git https://guides.github.com/introduction/git-handbook/ https://help.github.com/articles/git-and-github-learning-resources/
