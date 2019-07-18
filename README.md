@@ -36,9 +36,12 @@
   * spring boot test https://www.baeldung.com/spring-boot-testing
   * avec H2 https://www.baeldung.com/spring-testing-separate-data-source
 * accès à une base de données https://www.marcobehler.com/guides/a-guide-to-accessing-databases-in-java/ https://www.databasestar.com/jdbc-in-java/
-  * JDBC
+  * JDBC https://docs.oracle.com/javase/tutorial/jdbc/overview/index.html
   * JPA
-  * Hibernate
+  * Hibernate https://docs.jboss.org/hibernate/orm/5.4/quickstart/html_single/
+  * Spring data JDBC https://docs.spring.io/spring-data/jdbc/docs/1.0.9.RELEASE/reference/html/
+  * Spring data JPA https://spring.io/guides/gs/accessing-data-jpa/
+    * astuces https://stackoverflow.com/questions/44937306/how-to-refer-long-query-written-in-external-file-in-spring-data-jpa-query
 * API REST
 * reflection
 
